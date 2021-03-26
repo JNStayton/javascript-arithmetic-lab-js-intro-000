@@ -1,17 +1,13 @@
 function add() {
-
 }
 
 function subtract() {
-
 }
 
 function multiply() {
-
 }
 
 function divide() {
-
 }
 
 function add(a,b) {
@@ -36,4 +32,8 @@ function increment(n) {
 
 function decrement(n) {
   return n -= 1
+}
+
+function makeInt(n) {
+  parseInt(n , 10)
 }
